@@ -10,4 +10,4 @@
 #define XH_IPHONE6_HEIGHT   667
 #define XH_SCREEN_WIDTH     [UIScreen mainScreen].bounds.size.width
 #define XH_SCREEN_HEIGHT    [UIScreen mainScreen].bounds.size.height
-#define XH_SCREEN_SCALE     XH_SCREEN_WIDTH/XH_SCREEN_WIDTH
+#define XH_SCREEN_SCALE     XH_SCREEN_WIDTH/XH_IPHONE6_WIDTH
